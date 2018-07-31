@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-client1/eureka-client1.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-client1/eureka-client1.iml" group="eureka-client1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-client1/eureka-client1_main.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-client1/eureka-client1_main.iml" group="eureka-client1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-client1/eureka-client1_test.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-client1/eureka-client1_test.iml" group="eureka-client1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-server/eureka-server.iml" group="eureka-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-server/eureka-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-server/eureka-server_main.iml" group="eureka-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-server/eureka-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-server/eureka-server_test.iml" group="eureka-server" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud.iml" filepath="$PROJECT_DIR$/spring-cloud.iml" />
+    </modules>
+  </component>
+</project>
