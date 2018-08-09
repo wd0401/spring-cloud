@@ -2,3 +2,4 @@ rootProject.name = 'spring-cloud'
 
 include 'eureka-server'
 include 'eureka-client1'
+include 'ribbon-consumer'

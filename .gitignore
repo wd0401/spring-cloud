@@ -1,0 +1,11 @@
+/bin
+build/
+.gradle/
+.jruby/
+.sass-cache/
+.classpath
+.project
+.settings/
+.idea/**
+**/build/**
+**/out/**
