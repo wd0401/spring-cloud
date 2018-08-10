@@ -9,3 +9,4 @@ build/
 .idea/**
 **/build/**
 **/out/**
+spring-cloud.iml
